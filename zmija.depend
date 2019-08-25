@@ -1,0 +1,4993 @@
+# depslib dependency file v1.0
+1565346137 source:d:\faks\druga godina\c++\ispit\primer snake\prvi primer kod\zmija\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	<SDL2/SDL.h>
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\close_code.h
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272126 d:\faks\druga godina\c++\ispit\primer 3\sdl2\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565348178 source:d:\faks\druga godina\c++\ispit\moje\zmija\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	<SDL2/SDL.h>
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\close_code.h
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565355944 source:d:\faks\druga godina\c++\ispit\rezerve\zmija\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1565356129 source:d:\faks\druga godina\c++\ispit\rezerve\zmija\food.cpp
+
+1508772770 d:\faks\druga godina\c++\ispit\moje\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565356595 source:d:\faks\druga godina\c++\ispit\rezerve\zmija\snake.cpp
+
+1565881460 source:d:\faks\druga godina\c++\ispit\rezerve\zmija\engine.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\close_code.h
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<mm3dnow.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1564029277 d:\faks\druga godina\c++\ispit\sdl download\sdl2-2.0.10\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\close_code.h
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508772770 d:\faks\druga godina\c++\ispit\rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565272127 source:d:\faks\druga godina\c++\ispit\rezerve\zmija\level.cpp
+	"Level.h"
+
+1565272127 d:\faks\druga godina\c++\ispit\rezerve\zmija\level.h
+	<iostream>
+	<fstream>
+	<SDL2/SDL.h>
+	<vector>
+	<utility>
+	"Tile.h"
+
+1565272127 d:\faks\druga godina\c++\ispit\rezerve\zmija\tile.h
+	<iostream>
+	<fstream>
+	<map>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+
+1565272127 source:d:\faks\druga godina\c++\ispit\rezerve\zmija\tile.cpp
+	"Tile.h"
+
+1565356129 source:d:\faks\druga godina\c++\ispit\actually rezerve\zmija\food.cpp
+
+1565356595 source:d:\faks\druga godina\c++\ispit\actually rezerve\zmija\snake.cpp
+
+1566131442 source:d:\faks\druga godina\c++\ispit\actually rezerve\zmija\engine.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\close_code.h
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508772770 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454366534 d:\faks\druga godina\c++\ispit\actually rezerve\zmija\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1566211935 source:d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\engine.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\close_code.h
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508772770 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454366534 d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565356129 source:d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\food.cpp
+
+1565356595 source:d:\faks\druga godina\c++\ispit\actually rezerve\score testiranje\snake.cpp
+
+1566212208 source:d:\faks\druga godina\c++\ispit\actually rezerve\you win\engine.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\close_code.h
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508772770 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454366534 d:\faks\druga godina\c++\ispit\actually rezerve\you win\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565356129 source:d:\faks\druga godina\c++\ispit\actually rezerve\you win\food.cpp
+
+1565356595 source:d:\faks\druga godina\c++\ispit\actually rezerve\you win\snake.cpp
+
+1566223165 source:d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\engine.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\close_code.h
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508772770 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454366534 d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565356129 source:d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\food.cpp
+
+1565356595 source:d:\faks\druga godina\c++\ispit\actually rezerve\svuda popravljen tekst valjda\snake.cpp
+
+1566223193 source:d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\engine.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\close_code.h
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508772770 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454366534 d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565356129 source:d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\food.cpp
+
+1565356595 source:d:\faks\druga godina\c++\ispit\actually rezerve\final - sa komentarima\snake.cpp
+
+1565356129 source:d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\food.cpp
+
+1565356595 source:d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\snake.cpp
+
+1566305914 source:d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\engine.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\close_code.h
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508772770 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454366534 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina testiranje\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1566306144 source:d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\engine.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\close_code.h
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508772770 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454366534 d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565356129 source:d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\food.cpp
+
+1565356595 source:d:\faks\druga godina\c++\ispit\actually rezerve\pozadina radi jedno pola minuta good enough\snake.cpp
+
+1565356129 source:d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\food.cpp
+
+1565356595 source:d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\snake.cpp
+
+1566388515 source:d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\engine.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\close_code.h
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508772770 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454366534 d:\faks\druga godina\c++\ispit\actually rezerve\komentari popravljeni\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1566570736 source:d:\faks\druga godina\c++\ispit\moje\final 1\engine.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\close_code.h
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508772770 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454366534 d:\faks\druga godina\c++\ispit\moje\final 1\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565356129 source:d:\faks\druga godina\c++\ispit\moje\final 1\food.cpp
+
+1565356595 source:d:\faks\druga godina\c++\ispit\moje\final 1\snake.cpp
+
+1566570736 source:d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\engine.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	<sstream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\close_code.h
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508786982 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1508772770 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454366534 d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\sdl\sdl2\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1565356129 source:d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\food.cpp
+
+1565356595 source:d:\faks\druga godina\zajednicki folder za ispite\aleksandar budincevic oop2 i veb programiranje\oop2 - snake game\snake.cpp
+
